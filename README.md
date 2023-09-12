@@ -1,1 +1,1 @@
-# MyProject
+# Tencent Open Class Project
